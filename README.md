@@ -5,7 +5,13 @@
 [![topic](https://img.shields.io/badge/topic-dsh--plugin-1f6feb?style=flat-square)](https://github.com/topics/dsh-plugin)
 [![License](https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square)](LICENSE)
 
-<img src="icon.svg" width="72" alt="icon">
+> 配套插件：[dsh-api-usage-meter](https://github.com/yunshu-iii/dsh-api-usage-meter) —— 窗口底部的 API 余额与 token 用量状态栏。
+
+![壁纸效果](docs/hero.jpg)
+
+入口在侧栏底部：
+
+<img src="docs/entry-button.png" width="320" alt="侧栏按钮">
 
 ## 它是什么
 

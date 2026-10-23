@@ -5,6 +5,8 @@
 [![topic](https://img.shields.io/badge/topic-dsh--plugin-1f6feb?style=flat-square)](https://github.com/topics/dsh-plugin)
 [![License](https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square)](LICENSE)
 
+![Wallpaper in the Harness window](docs/hero.jpg)
+
 ## What it does
 
 Adds a "Theme & wallpaper" button to the sidebar footer (icon-only when collapsed). It opens a centered panel where you upload local images, set one per appearance, manage the gallery and presets, and tune every surface.
