@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Theme and wallpaper">
+  <defs>
+    <linearGradient id="wt-sky" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd7a8"/>
+      <stop offset=".45" stop-color="#ff9ec7"/>
+      <stop offset="1" stop-color="#7aa2ff"/>
+    </linearGradient>
+    <clipPath id="wt-clip">
+      <rect x="6" y="10" width="52" height="44" rx="9"/>
+    </clipPath>
+  </defs>
+  <rect x="6" y="10" width="52" height="44" rx="9" fill="url(#wt-sky)"/>
+  <g clip-path="url(#wt-clip)">
+    <circle cx="43" cy="25" r="6.5" fill="#fff7e2" fill-opacity=".95"/>
+    <path d="M6 40c9-8 15-8 23-2s17 6 29-2v20H6z" fill="#1f2a44" fill-opacity=".55"/>
+    <path d="M6 47c11-7 19-5 26 0s17 4 26-1v14H6z" fill="#131a2b" fill-opacity=".75"/>
+  </g>
+  <rect x="6" y="10" width="52" height="44" rx="9" fill="none" stroke="#ffffff" stroke-opacity=".3" stroke-width="1.5"/>
+</svg>
