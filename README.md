@@ -9,6 +9,10 @@
 
 ![壁纸效果](docs/hero.jpg)
 
+同一界面开启壁纸前后（左：原生外观；右：开启壁纸）：
+
+![默认外观与壁纸效果对比](docs/compare.jpg)
+
 入口在侧栏底部：
 
 <img src="docs/entry-button.png" width="320" alt="侧栏按钮">

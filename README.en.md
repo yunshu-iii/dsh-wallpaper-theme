@@ -7,6 +7,10 @@
 
 ![Wallpaper in the Harness window](docs/hero.jpg)
 
+Before / after (left: native look, right: wallpaper on):
+
+![Native look vs wallpaper](docs/compare.jpg)
+
 ## What it does
 
 Adds a "Theme & wallpaper" button to the sidebar footer (icon-only when collapsed). It opens a centered panel where you upload local images, set one per appearance, manage the gallery and presets, and tune every surface.
